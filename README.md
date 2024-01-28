@@ -10,10 +10,6 @@ The Extension front-end that scrapes the active web page is written in Javascrip
 
 ## Testing 
 Tested the Extension on Amazon Website.
-![Image1](D:\DPBH\dark-patterns-recognition\train_classifier\DPBH\Final pakka final\Cmos_dark_pattern\WhatsApp Image 2024-01-28 at 17.17.01_c476b1ff.jpg)
-![Image2](D:\DPBH\dark-patterns-recognition\train_classifier\DPBH\Final pakka final\Cmos_dark_pattern\WhatsApp Image 2024-01-28 at 17.17.01_75eb855e.jpg)
-![Image3](D:\DPBH\dark-patterns-recognition\train_classifier\DPBH\Final pakka final\Cmos_dark_pattern\WhatsApp Image 2024-01-28 at 17.16.50_cfe03fef.jpg)
-![Image4](D:\DPBH\dark-patterns-recognition\train_classifier\DPBH\Final pakka final\Cmos_dark_pattern\WhatsApp Image 2024-01-28 at 17.16.50_406fe17b.jpg)
 
 ## Reference
 Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 81.
