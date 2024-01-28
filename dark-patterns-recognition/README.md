@@ -11,5 +11,6 @@ The Chrome Extension front-end that scrapes the active web page is written in Ja
 Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 81.
 
 
+![after](https://github.com/Nikita-silu/Cmos_dark_pattern/assets/124695324/0fa81d51-0b47-4aab-9768-31dceacfbd25)
 
- C:\Users\YOGA\OneDrive\Pictures\Screenshots\before.png"
+![before](https://github.com/Nikita-silu/Cmos_dark_pattern/assets/124695324/9d696028-1351-4162-82a6-1bcdfdf55600)
