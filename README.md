@@ -10,6 +10,9 @@ The Extension front-end that scrapes the active web page is written in Javascrip
 
 ## Testing 
 Tested the Extension on Amazon Website.
+<p align="center">
+    <img src="https://ibb.co/5Wf50C8" alt="logo" width=600 >
+</p>
 
 ## Reference
 Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 81.
