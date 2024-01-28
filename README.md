@@ -11,8 +11,19 @@ The Extension front-end that scrapes the active web page is written in Javascrip
 ## Testing 
 Tested the Extension on Amazon Website.
 <p align="center">
-    <img src="https://ibb.co/5Wf50C8" alt="logo" width=600 >
+    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/5b3632f5-0bd9-4af3-882a-7d90847492ca" alt="logo" width=600 >
 </p>
+<p align="center">
+    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/55189e39-337e-4828-8659-c520dc273464" alt="logo" width=600 >
+</p>
+<p align="center">
+    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/e0399c51-fce8-4de4-a716-335807a6f093" alt="logo" width=600 >
+</p>
+<p align="center">
+    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/b0679103-1a4f-459f-b2bd-ebf233306f8d" alt="logo" width=600 >
+</p>
+
+
 
 ## Reference
 Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 81.
