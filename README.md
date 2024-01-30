@@ -9,20 +9,16 @@ Dark patterns are design tricks used to influence the way users interact with so
 The Extension front-end that scrapes the active web page is written in Javascript. For the back-end, a Python server running Flask interfaces Bernoulli Naive Bayes models to classify tokens of text sent to it.
 
 ## Testing 
-Tested the Extension on Amazon Website.
+Tested the Extension on different browsers like Chrome, Microsoft Edge, FireFox.
 <p align="center">
-    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/5b3632f5-0bd9-4af3-882a-7d90847492ca" alt="logo" width=600 >
-</p>
-<p align="center">
-    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/55189e39-337e-4828-8659-c520dc273464" alt="logo" width=600 >
-</p>
-<p align="center">
-    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/e0399c51-fce8-4de4-a716-335807a6f093" alt="logo" width=600 >
-</p>
-<p align="center">
-    <img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/123747415/b0679103-1a4f-459f-b2bd-ebf233306f8d" alt="logo" width=600 >
-</p>
-
+<img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/124695324/5315e98e-cc1f-45d8-b144-a525f0d7ec6b" alt="logo" width=600>
+ </p>   
+ <p align="center">
+<img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/124695324/c1cefc74-bf89-40a0-9573-bc158b4eb6d9" alt="logo" width=600>
+ </p>    
+ <p align="center">
+<img src="https://github.com/Nikita-silu/Cmos_dark_pattern/assets/124695324/017275f4-6564-4e9e-9d3c-72133939b145" alt="logo" width=600>
+ </p> 
 
 
 ## Reference
